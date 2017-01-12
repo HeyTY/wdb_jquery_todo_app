@@ -29,10 +29,3 @@ $(".fa-pencil").on("click", function(){
 	$("input[type='text']").fadeToggle();
 });
 
-
-
-// $("span").click(function(){
-// 	$("li").on("click",function(){
-// 		$(this).remove();
-// 	});
-// });
